@@ -1,0 +1,17 @@
+class Solution:
+    def rotateString(self, s: str, goal: str) -> bool:
+        if len(s)!=len(goal):
+            return False
+        n=len(s)
+        for start in range(n):
+            if goal[start]==s[0]:
+                left=0
+                right=start
+                while left<n:
+                    if goal[right]!=s[left]:
+                        break
+                    left+=1
+                    right= (right+1)%n
+                if left==n:
+                    return True
+        return False
