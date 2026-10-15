@@ -1,0 +1,21 @@
+class Solution:
+    def wordPattern(self, pattern, s):
+        words = s.split()
+
+        if len(pattern) != len(words):
+            return False
+
+        charMap = {}
+        wordMap = {}
+
+        for ch, word in zip(pattern, words):
+            if ch in charMap and charMap[ch] != word:
+                return False
+
+            if word in wordMap and wordMap[word] != ch:
+                return False
+
+            charMap[ch] = word
+            wordMap[word] = ch
+
+        return True
