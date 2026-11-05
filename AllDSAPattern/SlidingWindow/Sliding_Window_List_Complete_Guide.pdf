@@ -1,0 +1,436 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 48 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 47 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/Contents 49 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 47 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-average-subarray-i/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 671.0047 217.6336 681.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 644.0047 243.1591 654.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 633.5047 178.4401 643.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/contains-duplicate-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 606.5047 183.6336 616.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 579.5047 268.988 589.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/k-radius-subarray-averages/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 552.5047 214.8116 562.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 525.5047 250.2311 535.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 515.0047 127.8821 525.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/grumpy-bookstore-owner/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 488.0047 203.4641 498.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 461.0047 269.0676 471.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 450.5047 110.8821 460.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 423.5047 250.4521 433.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sliding-window-maximum/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 396.5047 202.5036 406.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/max-consecutive-ones-iii/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 303.0047 202.5291 313.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 276.0047 267.0016 286.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 265.5047 136.3906 275.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/fruit-into-baskets/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 238.5047 171.3511 248.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+25 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/maximum-erasure-value/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 211.5047 198.2621 221.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+26 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 184.5047 229.9331 194.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+27 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 174.0047 145.3666 184.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+28 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/find-the-longest-equal-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 147.0047 229.4741 157.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+29 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 120.0047 259.7001 130.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+30 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/longest-nice-subarray/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 93.00472 191.6661 103.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+31 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 66.00472 262.0461 76.20472 ] /Subtype /Link /Type /Annot
+>>
+endobj
+32 0 obj
+<<
+/Annots [ 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 
+  18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 
+  28 0 R 29 0 R 30 0 R 31 0 R ] /Contents 50 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 47 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+33 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/minimum-size-subarray-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 716.0047 215.2621 726.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+34 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subarray-product-less-than-k/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 622.5047 221.4331 632.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+35 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/binary-subarrays-with-sum/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 595.5047 209.6011 605.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+36 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/count-number-of-nice-subarrays/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 568.5047 230.3921 578.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+37 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 541.5047 258.2721 551.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+38 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 531.0047 159.5361 541.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+39 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/count-subarrays-with-score-less-than-k/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 504.0047 262.9981 514.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+40 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/subarrays-with-k-different-integers/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 477.0047 237.0136 487.2047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+41 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 401.5047 251.6676 411.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+42 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://leetcode.com/problems/sliding-window-median/)
+>> /Border [ 0 0 0 ] /Rect [ 105.2126 374.5047 193.5446 384.7047 ] /Subtype /Link /Type /Annot
+>>
+endobj
+43 0 obj
+<<
+/Annots [ 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R ] /Contents 51 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 47 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+44 0 obj
+<<
+/Contents 52 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 47 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+45 0 obj
+<<
+/PageMode /UseNone /Pages 47 0 R /Type /Catalog
+>>
+endobj
+46 0 obj
+<<
+/Author (\(anonymous\)) /CreationDate (D:20261105160133+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261105160133+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Sliding Window - List Mastery Sheet) /Trapped /False
+>>
+endobj
+47 0 obj
+<<
+/Count 5 /Kids [ 5 0 R 7 0 R 32 0 R 43 0 R 44 0 R ] /Type /Pages
+>>
+endobj
+48 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2110
+>>
+stream
+Gatm<D0+Dj&H9tYfIo0NS&DRk_2u4a:!t@_01dfK9KKl/(W@.l`KmGSPL-i^Ik1<u!s*dEL.OXr[JT<sX50$l0_&Z;s'>hI2M0rs$S35dA$?rjJ^H?FO'4bP<rSuF2nIS52ZVHP%,5l/>_ge*SrP0MP[KbC;+uWED6Q_\d'f3!/YR*^q2l3T@E<i9-h*+8?Tc1;>dHg>T>iTg^^Wj\N>F8W.$\^YoE.R$iFl3kUAKP7k7HXVRKu!OaU2JRFs-t(iEs*SBhX#R/7F^5^a2PR"n_jbNrj2&j+o>(f?Qq(4HKV>rAigXoa@i_^tE<'S7.i\e,mOr?)NV<%M$b_#2F)^W7B:7q\lVK^_oildY2o_$/rUhY]pQa$<':2$j+<6hpfGPFt/k['R'tf>,f3d+Ylk)`_`lHm<d$!60hABo',kIcfB\n*K;:q^0PgR/0p,bh462LV7+d'miidK&+gDcnQgft!b:plI3a;;d)_!(_IFp(9#)+]qFlJW;A)>>,Z-H=qb?Jfbh"cK1WJ^,iR:MB'C&.9piG#,>iaifK*d>;nKTef-=7RpVA*,h'<rff_Trq0NIm<\8-4/CoEgrH6pI_^[-PH7d6eeX3K<"IrWeHlpu*3T'mmB(lH/>B3S6Y11,=aorq*S^+^<=j2g$\;3Nm;Q,n33BT+p-BUQ:mNSYXK-cPW\"odHV`+p/s%>fLXN$k8CW6I/5,bA1DLKslD(6d0"\KI_RJiITonn`_kALG0*<N9!o%+Ns70i(h$+;$\!MM1?fp+XVc=K@fP(>)'?m(r^;H_$Kob@R!.3I*#58FI;9>2@ZTW_<V+J]Kg9<CZf(GZW@Yg=%*4rFY-9,SXp9\<Y*<4.?*/mN5<<<\h4g%F3lk:o"/#e<gM\e>?!1J](kPoC"XH%[g1JL3EAMcp[GMsi:aJW5]'e$@)a,FV/s+DJgR8g[dsQ3_`aN6NNVZ_`1#(_7^pN1_>R,gRW!&!:!s9@q[P?8K`.WaKt3/f<<n\R)OsXMY#N6R<0^'LH8V(+Lo1Me"U26S+V<O41snk<.9JGEDQ*=sV64),GC.YH+j80[:bJUhH'sIT_'c6a3Q>%h"F2=FM19%c=%\8O^2ep-i"qAAE`bS@qq*GRm`@g5LMWjQ?Q-cLHFj%bY')W^95!mC7F_93<mI=LK_p:F-pRckcO$HeeSOIA(t,\-U),ULXl5Ye+RY-L#92c`b$BJ]$lZ-;+qfX@T,;2Qdep2M'`WZq"%hJYh2Z#;IUbWe.qE9TA*4Z/RY5C7ZRH4HjI@"d.#B%GVJ?_6G-da[e*$gjS4Z%,cUgU5@2S3Z,QSboNa=.n8Ia)e@_'GN5R0Bpn<YM#Ccr<c6$s@feB'i_[D#^gY^l0df5/$FkS#k>iBjH.,*sF?!qU0HI"ET%kurq>0a]+Ccuo)"bZ>WUjlje>F\"$.D610R(3Q3]4RD!N?oBhNUQji]>DGlm.N9k\E^I^]/1Heqb0e(N5EcPa<bOV?XkggggM,k'<??;R<QX1smelDF]F!7eB4IJkJdX"eoAB_i7WCYHNAY#&BDLA0HI/d8Ha>/M`k8;9dYR17Z%i^$7(H!!*/b(D"QiY*rFA-V%Fq)5!&Nc%W5L+cbG1.E<*Ppjg%.@u/GXG^m.I+7H9P*oCoQeSgS[2LHdHK8,s2riBo&YNMRB)-L2+"e_5REAUoG&;q%p7XfS]Ls$%@NoLROCQL77!9#4?-.WOoCk-YbGVO(-&e5#c/'bVQ4h<=!Y,+mQF3eu=;MX&uQ?:u2o<g3NPdl/a9[h2C9D"GYS-*U%:d)`!'+'%)Kh^$"gh+)@6/56!e"mYnpMmmkQ?nM#u9Hc,7)!s_WlIJEZDAN90]T&QO,JQrXO)!WQV3ao0R2CgF]?J-OD)Q4*MREQ_:e,>PsC045R=4!pT3Rq7Kg0##&Y6qZf6I!g09)YEMm^q"0*#0-i\[kIqMb.PUVGe4DYDBOnOg]+<@B#ocK-bT!29=cEc'O&lrl_`#VbVa-D6CULfmQBa;1q-pi!%W"Snq^90"9l5Rl@h^S+"Zk_Q#]+hQ#R1>I?9BBDR>jO8[,pTg,64c?u?)*WZS88q"7b+^4?O&Z&aJp[]P/T[d>\IX;=%rr>ie9+1~>endstream
+endobj
+49 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2129
+>>
+stream
+Gb!;dD,]1K&H9tYfGWhKTkB<1bAZe0AggKu&RJYh[itPiL`e=,9l6emrq]jp7<'GFN-!%a3Fb.V<kGD&cgJq&@,R*Af?5naRkANj,sWl#YCJ<t6+6rCh6l]e,aW&ED@t4g^i<VM)U-$;fW>ehT+]L"FdRl,L/#R>k^!\\&nT(7mMJYp+D,B*Pm1Eh%f7F]Oad[C0tn[u7)[Gfh/bc1)]f.aD?PprHdUU#JF5A[^6DC+a59#".++U@Z/8;$E>:rQSg7caas4W4UuJ^u0jlR(MZIQa*Acas?!E)n#@I1JiUanUm`FY/HL&ie#2pT0+eFX>/KR@DYAX3MNRr+miWL?9rCS&XJ-c&Q+s(!I?L((5TXXG`o`H8Gb2:qreO=o=bl2G8oH?BKJI_qrLcZ%i0b/[=#Y0Lb'tNihs4M20s&uSt!Gq?m,F/CJY(4cq>4/u#g/^)2T=-s(Cqo6$i@I&<a8:3r>r@fX:;Kat)O2F/6;YO_A!_i[-V1"8KSTOtAC&)QiSaL[G3<7W<eieXFJZ!7+0M>WS.0cR,IopI$0DiF#mGl2LYXk*L$DnDbGJ&^F%t<5hOT&X<o`TQ=8s30't>&VqS<4]T=dcrfNXZTR.AIM3osYZ)Z-(hO2p(/j*e_m(/HR0EIK!^#R5`s%6T3?1s(+s0#L9MIgCYM:OK5Z$t^$o?)&#0i$3^OF6?l.93&.4hO!W#DW`Mi!mVhjNl!d?[17O&1+O-Bbo.26X<eIu9VYS-Ar7>.oe_nDXm2]^bKC[/=F4`K%e"ZCK.t2=f$7Nr"YWc`?=Ynp[br0eLI_8#a(buk+g2"<I3NW.G`<A$%,f,q$,e-*#T3Cmk8,PK_cK%o@E>4Cn9DOQ(OX"g$-.L%K+#t%:Qj=-M"t0:b:=qrkW`+rR1=.[N!9/:ig5LO.?O0B+d/C8+OFs2jBOStD>IAj06k;$Ka-K]\Xb!dei;i'\>\-1gh05A'u^Q/%cfT>7\ten8PP\kB"Gd?J?,$8=T/Xfm$p[F-^W4DMg>f>H8]gQ)t,C8#udTmCYl!mc03C#27mCu@Z*+jMfNkCPquXU)`5ucV2t>%2?IH$^aic(W'Lf+4A:LA@3DT%f$Fk83EBYWl]nJ)UY?j_87U3=o>mu>5Wht(>e<!Q*UuLU.b.JHdVZl[)ll2_r%R]*qe?MAJS['0:Z.1Af"p&Q?mo)[0g2D'b\k/7-Y]T*TYE;trF_]AgcELHdk;$Q,F[k/:<Y6RGZ$\#Eo`?)4":8p)Q].%G*+(SA`egK9ZotOV93HIhu>"\YQbuCL/j,<(a4pA;Is_+pNX?$4c5jXMb]jsE((1m2[>Po'+>q1S8M4@d'YU:Lh?OSC.,Dt1c="=i21ABTPe7t*YuZbe6;lLNLT#`V6r<WaQabB2)r7#STO%Y]opB6qVm]LW*GE8s0E0b.m>7:^?@d;WCn#!LX]7T9h7u8MM,T1Pu=&cctuuEGhq#NRD.@5j&]Vt0KGT2R,+?6QeX2tS_M[,Xgj>r1ec6j6FK4,T%\T>+r>JRF/D;VXI$G^[To.O5^6&;Is:IgUJTfQ:?ohI2bhe]%GER5B;QG#fll[:flC,+10`&bk%<KH;4KloY'K$eqgU:;?\n?,"7Af,7BPPOkS$L)43pT@letLqF-=33!b@^gC7@WGF>Og&Q=_$RYr,OP>Ada32g=:eg.u"9%`m,_@lP=PL*0HU'KfM<*`se*L50KE*ZiiX:5)2HB!1hoA]`*eK23j'Y2s:gQ0.2j--cC<Uh3hJji8O]'aCF[\.)qTJeW/%&lBK!poL0@V/T7T/]2WqB/Ue@kQ\>^H;C:'OVmj,jj\O#gb@c62`Xf`:%pV8_t]<p%#`#HFa@"qdFb7[<J86EP2/4#:&EIDDqABF;_.H2cP%.NEDkfn^lK-n\4lIn&_Gt:In+Qh54`+;>b1#eSPL\@rLPq'`A]Zp15`!l*YVd^q?tVfL`.S*/^%jgSdQY6f5q4@V/NKrkm,5p_$J?7DPPuubWIdq6q]k3b2i<NE[RHYbFE^l/<)F?R4`:k>qRT#@&rLq=LeN<70dtX*SALq9U82YoNjCek%El)REi!LPU2.OAAKH9<22!1WL%U.8uTagKYoP\V@l=m/7H,-7\%uWU+qpXTDi6cDj"-g0E~>endstream
+endobj
+50 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 3677
+>>
+stream
+Gb!;hCNn5u')g+ZW,q+f_*B3oXZ*lFF7KC<#mjuqYVV[X*P3>-CeI&)9_e9bXd@eYZ<M?=F*9=#80rJf>.7/6WbrrPitoi:*mOeH#4V1@!CC3K#%D<o$ngI[nDrmK;I!qIRRK?n"35C=WgaKI%a>p>nLO^#;TH06]8;<S$dn>T*0X?>//ZUY"U/@G/mRA.B5)>$H#amb3.+8BSG6M(_`f'FfH3Em_Vs\t$\j'$$jM3ui456'#Q.aa/Xo;[dPLL48JkVc%0E-rELb8XkAeW+*:?o3_jN`Z_SL7ndn)U\[nMF'_JVBhgd@V10V#@MW$tDu==mR3)Jb\?5<+%3MAPWsla&7B-dY*Tm1_aV?(P;LL?m^5%n>LZVEVrt%h@bVp:nLuq6,<EJ^=+]#77W^BFg0IM>&2X&&7Z#BD$I8M`WXU6g[VMZ-kUAMs)':C^U'X`mp)/N1].7iiB^a-YQUg8"JWhc*O?]ii&Gc3kC=.?.0p.q)NQ-ni=Tj5<^rp2PUq6h5=:C-Eba*A7F4!ZR3V-[434p=qo.r[GpL9,k&#iI-;GMktf.5`^_U%=U(F32QMom&apJs;]"='oI"(_ld;\I3jBZ?L[fkn*SdN\m88r20R+I*C4/preP&p9G4P0_cfuO\L?<`HZ%I]'OWR&AEaS.M0M$qb*IJ82I[n2HR,0WT3M0%J-=YR/QdStohO0kRoA8p9n:u,M)LUJ^S)+R\HnRUP(YOfYl8[m"CH?>O$p'hc'&qh%EcK:72LKn9m39e2E%5qaiD_T^.?8&f?_%U/Zhl4"+jI'X4[/OKYY?@3SX<`SB6!/tp>)@=F#a*;,Ot3eV`-/afKGaALLml2<PZ'N#=[QPI_r!6Y")<Bd\T1+#Y;o+FGerq$qq,c^&-;$C^4c\=S)c*?ni)=3!nd;$e^.O4H+9F?c)V+?Eac@Rl#XIY'?H3;$GU@\e8Z_dED[#pe('MgT"!TjN=uU%"Sbd%bE_AfnO6n%n7#ZIK1bpGg%Cm'G6@MZJ[iq\,PatR3]#0@ZA'ZE$7u1@q8%,@2SN:!Vtj*GD5ser#$!P9FisM[p59"qs2#1qK-_O!.IQo"4qjDQ%<Th_VXn+N'eRSaWB53r(+%d5(\B>mUm;"\:kaL6RYXGE.7BlF'dZGe5Y9HeC]-V[6)<'fHEf"RtPoXN#j.B;rT7Bs#:E"k$tuEP29Wu_@d>k.KOt.@U0"=o%6Z5D[hTM71."&oY>S</W2!)T"l<^=tDR*=VS*"i$Fti$=7!8QLcrBK9m]S)K?B/+.%W%_2e"2L;Z^XnQ)W!+:&10NF54JZCc-"=9Rl;T"j8@5gFBXs#ttL"Cq-NS5g_<(F.M+>Zt=U[<0a6"P(Nld(<$^"CVDVnWBHh\&2Hofa5mW_l"c5!Lrk2E.%?CEf_MM;!uTlG'%;;gKr(f=UOB$]OpBYEAF,pF)9Dj>q%b*_afHcM3hJZ+Q!OE6X%"FYUd9NMLAHbYW;G+_K8i@3WOL*!pTH@#76GZkaqQ(@lKcD<m61"nH*PueK_dGhPQtTDc%?e"`ITGhNTFcPS-&:/Y&86cd!u"DL9"$F-ALT3o>_flAX]:@1(%+J?,1+4Z\V?$C8A8(6);e`H&pZgD?$rDIU1CgMVn0*$\/$+dr,A'Ue\GbXa*4gCZfX^pm<`;DVm"./@.G+271!1RR]PnhS'E.Y/GIATI`co<-Imoo'Y>DRF8MmCU@o'fSjt,<T&&(9-+%b*5E*W7%8^';b<4HT2AMBblWbC(]r+!Vq&n\CWf2rURc^L]%fPb_s'U$b-d/Ib=m5^qV6/K3Jq*p7WsloS+%)IrIM!&lCmGr'G?@PSfs7V'L7HYUud;])]scCXp0,X@ILK:t$aHd3lNmiL!i*5/%eo'?p^(5OmdP%u*ZpO^e+P-PO#J_/1r1+o8nDm@0nVriYsNdqPM]-+I:)7@=rp55UAr]bEKo3/h6E4G&Q>!:NX%#FJ`\8[[%><-g7C#X>U<C=H`u]c(CZ=!RSMFr-(Fop[@'n)/.C"7e:'6$US:#ng("qTNsh])o;!Yq,8")CWXT1e_OQ@^:OS.fT_%&4U)S1ZK[;%?\R'n.,f5YnlFF,AC@W,.[iYRkY[K'-GpCe:q.`Ys7hMU4un5>6Uj)i%'jhn9^);<Iq;p>[TC39O*^Mbjdi@Fkn:ocX<?D8LFF"Ig,;X+ABYf+'*LFKRZ_,L'H]s@l=kHGb+-\5PXD;]R,MH:[HhF'jQ;3c%JM3b*XjZpu8M'#.eWt=&/)0L!h8)"6G[UfpJ<Yc+.j^1?U#71BLE3iaHCB.mCp\BbFk`aWq?HP@^qbn?=ZZ1(2d&SLDb>KDY0!gTXB)KLa5_>J7Sa@$jA2&bf*B8F(",d3-'AnmH10#0h@XYZD'mh/W"VOP.g0V;7eFNnhj.Gu33Ze;9M#ds5d"&k+GPlf#mj_kW,f]!M\Y=-mi#qZ@8^r;3%`qI[;$*]!@qj9n[!^/Mopa<Xs>`Xk]k`01J5>o!/J#$_COKdt32W%3&XFo`8a>D[&pA4a0a+OANjaFK(6f7.[\FOSZQe3_p0fA3R(];3Eaf*ddCf6^R:'"+:F:k[>AF9MtKgS*.$8F8PgacG-cY:`"Rl_0=1aAU<?[Plh)fqXGu85[;KnOJ5aO&5Ap'sf*[3QGP>o3n*_h`+jE4N93KV,(rNSd<Fj]4k62:TldBI!V0q>]@Q$pq`^ZIL6H@o9XAh%?>'PN[5l0$\MY)-i80Di9qIi&/C1f^9#)Mf=m('\6a%>$Q#Epm]Kh,:TY"FOY?R:%2b,3P/-$Y1ojCHN+X?&X6&*4GFDUmRjgA/g*-J\;N=YK-UJP!6s]?\JF#SL$:NW4fj#S;m06:E;Jaa&%k+B<Lgr;YCY6'b%!UkWmjZ9Of2:f\E#'^mpq;Y9:K2XcPrbbBN^i-7Rm(.O5ZD0_<jgVYQn]=u>GNV`iR;1U]p;c,"6=@f_Ug#67=lcta_(1`^^G?>g(N/H)E"Ki,8R2E9`3%FW<-(+W_^2mDrn2BoX4nAVni>$o(%!aiaq"5o]MBn%B#\HCX<:$h:sH_#HirqLleL0K:85rp%j[fcC<=AlP)EuT&mCj*Eca/-$^61lD7qM(<+7#\3\'D/EtTC+`BIoebnN\Um?h:qO"g`DHneDbksK8(q3*%4CuTPCQm@[?9rVmRa(\E#^C+QY+<Ak:"38L`Y(fh*(k1BISJLsK(sKl9BqV!+=qg)$H(t(D#Q!Te`W9ii`E[tDI7K77#ZYGAY+5R;XCp]NO%mSPPZqk2VV48\F$X,\:Qb4;++7^gbLb9XoDrJAM2s\C-fH=`Zdne5gP%)E>IN9RMILlYq)>;*kT:7CS^U?-p^1_j8>OjVK%S++@t\cn'N6'B3],(OKJH:JdA*D$>QMq^jO_?N84TEWN-3h1/;3Q6f&qZs/l,&,\Ym2b!)ub/(!P3-ogd]Ko\7OiT5pG$_)0m)+-`g:s&#ijId^RBc)/5br'[".^9`aniK(Wd_MnF*jPY#TL_EEa@@[GpP\hB2]d[4F:XqIjDO:'Xd'EN3k5kLZRdL%,)MK%$&Mq5@=n,h+21uE'?7=H]H6[e&r=3*/%=`K'1t"cq9nq&Lt0=0F'(?SVM`YBDu7\_K^;*<cFUWn3BL*+ZaR#Qc;%>NI74/\%SN!YA.'GAY1@#mn^a]\j=AgI*EK=FX*B`0=Kd!P?BM90i5u!!,A<1%~>endstream
+endobj
+51 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2360
+>>
+stream
+Gb!;fgN)"=&:Ml+FO`RnNalY'\n!>!KeMb:%6-(%WNGhWN'T?W+?<!2@D@7q=,$kE5pTu",_=@M\jnnrHHmM'5k%4Ks*J7+K.ah5SH<BL]`BT6!So(BGFs;07LMlJ>*=3?#EDM07YHEg@CJZ3?DV$ajp6h4!h7,^amCnV8ZOP(6[+JD(f6gCE75(SSSmKK(c^m"LW7;Ij.LZ++&CW]k9"%tkO&(6pUGhXK@Xc6Zut&Rk&L9oq\H>X5-%Q-LI%1"0F2iqHO&@CYS.No5raOkRLFT]#@T<XNZegcC(st@Q<*cWn+!5;(b6\e1<VCtYRp7:gl`d/VLmP2p8O%rM%;Nucu8b1ba>.C@3[]S=m.t:=kZH5')#&JD;ZZ]:??UQX(>1KE\\FVIE/uA7A7KmM2=["FC\\?^T@'D1X#KZ8*bJ=qL3H%oiDZpERthTGkD/dp.)0s]A.Eham48&2[Q3MON^`0i1*uB.r#=Q4p5kW$Xu(o&GuHG&1SNqi2_*k0,k^Kl>5W:!;Kd)>Cm'J696'NNmDW57DB]T,6iZH<YZ4:EX+-J.!9@1>UjUBL5V73\QBonJW,/SD^%;H>Sob>E@A=pANH9##hl6"Z/](2![D#0Zug,b6Dp]_U0)MhIsgHRYLR0XB)#g41_AhQZWp'a(CPqVIkV@@>VaWQEa*uWGV!;1:+`2m!<gt#.QkT;c*;u/#+Sk`SZVuo*s4ql'?b@BN5Ad@nJ\Dn0X'XTFRhIUMP>HBr\+UIeU#OLqt%2#B>CsAN:%5SGDD7)E;D\q;W+Dh_L:`Y?Co4/g7,KK(kpYa[2uVmRHTs*bpldsd^:]DjW.S?CF[$(C?Vhf@U3NIbD'WE36UiW)H71%^i=BSA-QU41Z1sho9YH1CfCW-^YT[Ir>i^i[LJ\omfN7X_t2&ppU#>MS]cZ*`C8h5%dr?Z21\><4%S9N57N5joHE,Hj'iV?^VQrX*@bblEH8I.G.!5LX4BJJg,7RAKu;.oGj9SZq`ArQ!Y;6<GfqUVl/@dN=DcLQ@kB>%'6<nsMr(F;bI^7\DWB%5_+RYCpVr/H3jPho5D7P9pM[i_l8pr&2OhW=@Q3r^QkQ"d1$W]tl/fO=&^?GE4dJGEi/q'f249Ja"c.!=F<&G_Qqg(fhG'aD[$O&,O(7A`<![+@cn'7I26Kj]g^;T2MiG1RqcGM?L'd4[_$r$/\3KP&P!.Tr^8<]E+QdJL&9Ck_`685"N33Ot+tW/n)hZf'`!F9d6)Z-:MQ"Sb0h;MGFId9<Xg>,R\0`ni^SkHoR_]lSJOaAh,a4l[HlU0pY(:(\o>o%G`j$oBKe\a$l>1q7UeJ9f3'POn7=.)0p*UF-5We2SO.WZXR)udtSn+lLchS!PJ+u.ppE@a9)oF?2q@\l0L$;)i%k6<%7M16aX>oJ/iYjK,WgS/Ih2Z7\DTAl7D=KHkV.50p8hEnJ>B5Wm`--F*4Md?AQWV*:263sRTC8B$><JCWJUFSM%t$K1[+#n*gu%u9k=d2P`&)mrN:77e_:U\K'kQ+.[4&&"jaiRV9Suf<+OYD#H,._[o?6:De'"I4Y+@Qb(o=3Z%a"(ocY5u_hEHg@>iUQP(Sn3].*_Eqdn255bAlY+qB74DnXL2S?A+tXMdXkp\7pXc9%nb5]3;jaTslpTnoVTsGWLQqLue%`)>opEI,Ia'Yqj5g2WSiS]?B0#4."<Rl*Y..juJAB;Ac%B;/gT/obe?j)CGG8DQ.F9i`e_>s$d_VR.gLsoRe"NMJ)EK.<bsYSV%1uaeu,!G=>qWBfm+g29e1!)@>GF_r\J>mO4Djp!2njeX`\3H?XP+lHWp9]fWi&G%^*;esj(j:+>ffCt2GK[:`bpeBe#Ylh"B\;ON!j^KdTgqcA[I!Y`#V81u(4kU#5kEV,sP5!2#\=)e/AH[=Od1uW34:0kaoeMSDtaG2at^O!qpX(K)&m*6Vdp4Ip<RN,e)I'<NjV!F1drt+"tVK2je\u'+]`O^3m,ItC_GB9mtAq1ddoetI0oDR@LYV!+?R<B%cL7LUe8^d'e/$8ZAOS<^(K]4]\T;L$<o"W0VYhGQGAn6>4dIqKY&q'CG60'oA_>#(0q*P_eUBe;+_8q4P'E9ES1B03Hk'IVB;&CTV)"cb-8*]Wn\[D=J\[Ca,S?kqp/R1*n\q?J"*`;ESQmFq](f^:&-IY0`bI%@I,]9PgSE9/rRLX^f+(HISe%3q^&XMP4lo=#I)H"`47f6Ap>Y^@s>^[]cWlJ@:<&K<i9N=#R8l[a$j]o2K=@lQ(F>X-00[IC6?G'NJhD^@n?m1V"M&O'^Cgp>u'p`E&cu.]+dX&"S)=WuSMg3%Y91Y`e&eA)k=K?bs3/PXoXl>uiIuP4gp+PUdB\!~>endstream
+endobj
+52 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1432
+>>
+stream
+Gau`TgMZ%0&:O:SbbMMP'iC]C"kmEEaVJTS1l50G"oQ5.[*=RVGpt4Gn(2c*[8b1L70U76Cmc:6%!ag"nsFrf%k592(uRa]V]Q3V"+hg1W_j&)i$+P9SrgN0FZ#)%[KhiQC5,J(m"]24kZCJC1CT%Bpnh0C?'))n@Zo<%"[S)"$m90H_CZa$D%4e=Gfu9+r)mPM$^!t\E1c8a"EulPPXpuH(/o]-9$:QcM:1S+aU&*B+F$rrnID1XL.T"pm#?_O=ui*^-s,N']V8k<2UHI-0YL$ms06ZDcr-@2n2H,E\J1`F)q]s?6,M1SekBb2.:c!q,,Y-?nnfikO'mm\5k6JNA]TddE,DGf/_b<6]oO?q"%,$6`<g@KKEmfOQNF:WhR$`^?s!>]KaL#qS06s[ZeGF(P=j%kLjI/0N2BgV'UQr#<,-r+W`[U/+eqNOW+DHe1M#I.U7Y*+P=9T<0PppS-0LH/nf7cJ:XdU4?Z)]cQJk]Zok`pW2SNI3'&*&ca=r"JgWFI>U?h5?]m@aP)$+R$DrP6n$Vd):S2?Y6QYBtMjJ`U,+k745YeB6ZRS7h(:dAAgR>akS*K:2Sg6tO22qgWil^.lNK"RDk`6i[;@C.t#0pQBAnIaD'@^LgVdX(sg%\U#Y(\%#557^F[[_lAOI.<K>ml7d4o#e'-*0,1`SG=tr#e)R[_.BoGZX#K,STC'PY:NNQp`/\s^0\5!3&TNsN/AGiIK.53>Oak_QcSC@);*FY`9Knf/WVcma>)K*"Tugcl#6onKY.L`%*^hfIZqe_>aA6T5KlbEZVHJ=3JBl)i9-^T=QAYQ:,c$AF*m<dF!0?E)'?h:>1&>uRX`uZ-b^J6qKQb&(A#\n%$ItlQYDg69-N=s=2Z&I3+ls"R)#38H+r*j&?c@Y=U2B$]HK\(G$XY97XeY>4m9;EZ.lNSWmGX-NFHt3kg]pc45+gCn$uO,Kf?k-dqh&%K4\%(la8_G0U+@7k"7aUp`mV5l"(OM7+^\_A-O,e/eh3W;Y\&58$9/shVo9p^:bdk+1WZA,5AXFkPbYAMe*ggTpgc0m:5)6N2PpT/.OC)cFU3@TK,fK,VTHL_._`8'uLTkC1T,*1E#-`,RZ&f%CtVhs!QX;iTJZXEsuNOZI,3=ddG!NY7hVbcQ*H.n#tbO`<Q7gXERBbY?LBPm5-j2<p63Z&W<cjPWE)[=j`\_^<u;7oKK4f#=\=6Z!aOcTL.l[YgaLdMKB8/WXK*oBc0(QjOuqEEg2Z#Ko6^`@Gg)4R"VqBV^"1Y.cGe.T1$a^62?=F,'FqIKh<2^B!rDg*"(_m0.%NFELNlO%PCklRpYbX@!8g7,Y.NtBRjh"YH7p2r<u'hOgebDrMLaE\ikZf+NuX,`eE+_@>=?576?amJD4WqV!@E%$BEE6B)Cl;KB3_ll.+(\*6Q%5*@Cdd0BY[2~>endstream
+endobj
+xref
+0 53
+0000000000 65535 f 
+0000000061 00000 n 
+0000000122 00000 n 
+0000000229 00000 n 
+0000000341 00000 n 
+0000000460 00000 n 
+0000000665 00000 n 
+0000000770 00000 n 
+0000000975 00000 n 
+0000001184 00000 n 
+0000001424 00000 n 
+0000001665 00000 n 
+0000001870 00000 n 
+0000002130 00000 n 
+0000002340 00000 n 
+0000002564 00000 n 
+0000002788 00000 n 
+0000002994 00000 n 
+0000003225 00000 n 
+0000003456 00000 n 
+0000003681 00000 n 
+0000003887 00000 n 
+0000004095 00000 n 
+0000004328 00000 n 
+0000004561 00000 n 
+0000004763 00000 n 
+0000004968 00000 n 
+0000005203 00000 n 
+0000005438 00000 n 
+0000005653 00000 n 
+0000005875 00000 n 
+0000006080 00000 n 
+0000006302 00000 n 
+0000006692 00000 n 
+0000006901 00000 n 
+0000007113 00000 n 
+0000007322 00000 n 
+0000007536 00000 n 
+0000007778 00000 n 
+0000008020 00000 n 
+0000008242 00000 n 
+0000008461 00000 n 
+0000008682 00000 n 
+0000008887 00000 n 
+0000009175 00000 n 
+0000009381 00000 n 
+0000009451 00000 n 
+0000009754 00000 n 
+0000009841 00000 n 
+0000012043 00000 n 
+0000014264 00000 n 
+0000018033 00000 n 
+0000020485 00000 n 
+trailer
+<<
+/ID 
+[<f11c2579122fe78d08d1d2ee09d9272b><f11c2579122fe78d08d1d2ee09d9272b>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 46 0 R
+/Root 45 0 R
+/Size 53
+>>
+startxref
+22009
+%%EOF
